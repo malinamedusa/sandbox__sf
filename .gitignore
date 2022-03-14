@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/py10/melb_data.csv
+/py10/melb_data_2.csv
+/py10/students_performance.csv
+/py11/melb_data_ps.csv
