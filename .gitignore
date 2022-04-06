@@ -145,3 +145,12 @@ dmypy.json
 /py13/covid_data.csv
 /py13/country_vaccinations.csv
 /py13/churn.csv
+/py14/sber_data.csv
+/py14/diabetes_data.csv
+/py15/recipes.json
+/py15/menu.xml
+/py15/ratingsmovies.xlsx
+/py15/ratings+movies.xlsx
+/py15/grades.xlsx
+/py15/recipes.csv
+/py15/new_recipes.json
